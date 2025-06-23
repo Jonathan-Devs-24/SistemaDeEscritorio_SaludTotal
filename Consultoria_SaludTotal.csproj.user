@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Views\EntidadesForm\InformeForm\TurnosAtendidosForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\EntidadesForm\PacienteForm\EditarPacienteForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\EntidadesForm\PacienteForm\GestionPacienteForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\EntidadesForm\PacienteForm\HistorialPacienteForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\EntidadesForm\PacienteForm\RegistrarPacienteForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\EntidadesForm\TurnoForm\AgendarTurnoForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\EntidadesForm\TurnoForm\CrearTurnoForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\EntidadesForm\TurnoForm\GestionTurnosForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\EntidadesForm\TurnoForm\ReprogramarTurnoForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\EntidadesForm\TurnoOnlineForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\LoginForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\MenuForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
